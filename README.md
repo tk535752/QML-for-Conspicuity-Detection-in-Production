@@ -38,9 +38,9 @@ Team Member 1: _**Jyotiprakash Parhi**_
  - Current affiliation: IIT Bombay
 
 Team Member 2: _**Tushar**_
- - Email:
- - Discord ID:
- - GitHub ID:
+ - Email:tk535752@gmail.com
+ - Discord ID:tusharkumar5125
+ - GitHub ID:174471126
  - Nationality: Indian
  - Current affiliation: IIT Jodhpur
 
